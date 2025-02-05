@@ -49,6 +49,17 @@ body {
     
   }
   
+  #start {
+    background-color: #009779;
+  }
+  
+  #stop {
+    background-color: #0e85fc;
+  }
+  
+  #reset {
+    background-color: #c91400;
+  }
   
   
   
